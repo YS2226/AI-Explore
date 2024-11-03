@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 dummy_file_.zip filter=lfs diff=lfs merge=lfs -text
